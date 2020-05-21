@@ -23,8 +23,9 @@ const txt_url = "http://wdc.nict.go.jp/IONO/fxEs/latest-fxEs.html"    // Target 
 
 const i_mhz = 9.1   // mininum of fxEs value by NICT
 
-const con_baseDir = "/home/yuichi01/go/src/es_notice/"
+const con_baseDir = "/home/ubuntu/go/src/github.com/Tsukiyama-do/es_notice/"
 // const con_baseDir = "/home/yuichi/github.com/Tsukiyama-do/laserbeam/src/es_notice/"
+// const con_baseDir = "/home/yuichi01/go/src/es_notice/"
 
 var hlog *log.Logger    // custom logger object
 
