@@ -11,8 +11,8 @@
 AWS :  SES(メール送受信サービス）
 
 (セットアップ方法)
-１．お手持ちのlinuxにgolangをインストール（方法は別サイト参照）
-２．必要なgoライブラリをインストール
+１．お手持ちのlinuxにgolangをインストール（方法は別サイト参照）<br />
+２．必要なgoライブラリをインストール<br />
     golang.org/x/net/html
     github.com/aws/aws-sdk-go/aws
     github.com/aws/aws-sdk-go/aws/session
